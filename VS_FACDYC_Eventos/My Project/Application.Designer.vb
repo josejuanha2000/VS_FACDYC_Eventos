@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.VS_FACDYC_Eventos.Form1
+            Me.MainForm = Global.VS_FACDYC_Eventos.Frm_Registro_Eventos
         End Sub
     End Class
 End Namespace
